@@ -1,0 +1,15 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+
+django = "==1.10.5"
+"django-cors-headers" = "==2.1.0"
+"django-filter" = "==0.15.0"
+djangorestframework = "==3.4.7"
+raven = "*"
+
+
+[dev-packages]

@@ -1,0 +1,22 @@
+[
+  {
+    "model": "books.Book",
+    "fields": {
+      "akim": "Klasisizm",
+      "donem": "Tanzimat 1.Dönem",
+      "yazar": "Şinasi",
+      "eser": "Tercüme-i Manzume",
+      "tur": "Şiir"
+    }
+  },
+  {
+    "model": "books.Book",
+    "fields": {
+      "akim": "Klasisizm",
+      "donem": "Tanzimat 1.Dönem",
+      "yazar": "Şinasi",
+      "eser": "Muntebahat-ı Eş'ar",
+      "tur": "Şiir"
+    }
+  }
+]
